@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyHomePage(
-    title: 'flutter demo',
+    title: 'theme changer',
   ));
 }
 
